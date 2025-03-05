@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Onboarding-UI-Kit</string>
+
+    <!-- onboarding title-->
+    <string name="onBoardingTitle1">Your New Best
+Friend</string>
+    <string name="onBoardingTitle2">Your Best Friend
+is waiting</string>
+    <string name="onBoardingTitle3">Adopt Don’t Shop</string>
+
+    <!-- onboarding subtitle-->
+    <string name="onBoardingText1">We will help you to choose your
+lovely pet. Save a life. Adopt a pet</string>
+    <string name="onBoardingText2">Let your love change the world!</string>
+    <string name="onBoardingText3">The love of an animal is a pure thing.
+They gives you a trust which is a tool.</string>
+</resources>
