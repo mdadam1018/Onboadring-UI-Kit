@@ -1,4 +1,5 @@
 # Compose Onboarding App
+![onboarding_cover-01](https://github.com/user-attachments/assets/3b16ce40-de6e-455f-9076-b2aace7e676d)
 
 ## Overview
 This Android application demonstrates a modern onboarding experience using Jetpack Compose, Material 3 design, and Accompanist libraries. The app features three distinct layouts to guide users through the initial app introduction.
